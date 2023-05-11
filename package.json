@@ -1,0 +1,23 @@
+{
+  "name": "moviepitch",
+  "version": "1.0.0",
+  "description": "My first attempt at trying out AI APIs with this Scrimba tutorial: https://scrimba.com/learn/buildaiapps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KateDK/MoviePitch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KateDK/MoviePitch/issues"
+  },
+  "homepage": "https://github.com/KateDK/MoviePitch#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
