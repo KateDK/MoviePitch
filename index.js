@@ -1,3 +1,6 @@
+import { apiKey } from './config.js';
+
+// Use the API key
 const setupTextarea = document.getElementById('setup-textarea');
 const setupInputContainer = document.getElementById('setup-input-container');
 const movieBossText = document.getElementById('movie-boss-text');
